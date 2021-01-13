@@ -1,0 +1,46 @@
+div {
+	background-color: #8A7575;
+	padding: 4px;
+}
+	
+.good-movies, .moj-profil, .zaloguj {
+	color: #F7F308;
+	text-decoration: none;
+}
+
+.good-movies, .p-w, .moj-profil, .zaloguj {
+	margin: 5px;
+}
+	
+.good-movies {
+	font-weight: bold;
+	font: fantasy;
+}
+
+.szukaj {
+	color: white;
+	border-color: white;
+	background-color: #8A7575;
+	border-radius: 5px;
+}
+	
+.moj-profil, .zaloguj{
+	border-color: white;
+	background-color: #8A7575;
+	border-radius: 3px;
+	border-width: 1px;
+}
+
+.imie-nazwisko {
+	font-family: Verdana;
+}
+	
+.aktywnosc-konta, .footer {
+	font-family: Arial;
+}
+
+.lista-wyboru a {
+	font-family: Arial;
+	font-weight: bold;
+	text-decoration: none;
+}
